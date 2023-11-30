@@ -1,6 +1,8 @@
 
-let arrayeventos=[];
+let arrayeventos=['Perro','gato','pájaro','insecto','casa','mueble','pitufo','persona','niño','abuelito',];
 let entrada=0;
+
+enseñar_dom("lista_desordenada",arrayeventos); //enseñar lista inicial
 
 function crear (){
 
