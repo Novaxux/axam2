@@ -1,0 +1,18 @@
+.rojo{
+    background-color: red;
+}
+.verde{
+    background-color: green;
+}
+
+.botones{
+
+    margin-top: 2rem;
+}
+button{
+    border-radius: 1.5rem;
+    width: 100px;
+}
+#entrada{
+    width:200px ;
+}
